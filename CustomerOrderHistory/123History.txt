@@ -1,0 +1,112 @@
+123
+Howdy's
+Deparado Jalapeno Chicken Steak
+832.0
+1
+true
+false
+123
+Cannoli
+Apple & Cinnamon Calzone
+566.0
+1
+true
+false
+123
+Howdy's
+Rodeo Glory Beefburger
+987.0
+1
+true
+false
+123
+Howdy's
+Grilled Wings
+7752.0
+12
+true
+false
+123
+Jessie's
+New Year Resolution
+7008.0
+12
+true
+false
+123
+Cannoli
+Big C Burger
+3288.0
+6
+false
+false
+123
+Howdy's
+John The Don Deep Sandwich
+284.0
+1
+false
+false
+123
+Howdy's
+Megnumegna Grandwich
+483.0
+1
+false
+false
+123
+Howdy's
+Fried Wings
+6660.0
+12
+false
+false
+123
+Howdy's
+Cockaroo Buckaroo Rotisserie Chicken
+384.0
+1
+false
+false
+123
+Howdy's
+Megnumegna Grandwich
+483.0
+1
+false
+false
+123
+Howdy's
+Cockaroo Buckaroo Rotisserie Chicken
+384.0
+1
+false
+false
+123
+Howdy's
+Son of a Bun Burger
+234.0
+1
+false
+false
+123
+Howdy's
+Grilled Wings
+7752.0
+12
+false
+false
+123
+Howdy's
+Rodeo Glory Beefburger
+987.0
+1
+false
+false
+123
+Cannoli
+Salted Caramel Tart
+346.0
+1
+false
+false
